@@ -39,10 +39,3 @@
 * **Engineering & CAE:** Maxsurf, Simcenter 3D, Ansys
 * **Areas of Interest:** Computational Physics, Naval Architecture, Fluid Dynamics (CFD), Structural Analysis
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dacongan&show_icons=true&theme=transparent&hide_border=true&title_color=007EC6&icon_color=007EC6" alt="David's GitHub Stats" />
-</p>
