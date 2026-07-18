@@ -9,13 +9,13 @@
 <circle cx="74" cy="25" r="6" fill="#27C93F"/>
 <text x="440" y="29" text-anchor="middle" fill="#6E86A6" font-size="12">dacongan@naval-arch: ~ — zsh</text>
 <text x="30" y="72" font-size="13"><tspan fill="#16C0C0">dacongan@naval-arch</tspan><tspan fill="#6E86A6">:~$ </tspan><tspan fill="#E6EDF3">neofetch</tspan></text>
-<text xml:space="preserve" x="34" y="104" fill="#7CF5F5" font-size="12"> |    |    |</text>
-<text xml:space="preserve" x="34" y="119" fill="#7CF5F5" font-size="12">        )_)  )_)  )_)</text>
-<text xml:space="preserve" x="34" y="134" fill="#7CF5F5" font-size="12">       )___))___))___)\</text>
-<text xml:space="preserve" x="34" y="149" fill="#7CF5F5" font-size="12">      )____)____)_____)\\</text>
-<text xml:space="preserve" x="34" y="164" fill="#7CF5F5" font-size="12">    _____|____|____|______\\\__</text>
-<text xml:space="preserve" x="34" y="179" fill="#7CF5F5" font-size="12">    \                        /</text>
-<text xml:space="preserve" x="34" y="194" fill="#7CF5F5" font-size="12">  ~~~^~~~~^~~~~~^~~~~~^~~~~~^~~~</text>
+<text xml:space="preserve" x="34" y="104" fill="#7CF5F5" font-size="12">     |    |    |</text>
+<text xml:space="preserve" x="34" y="119" fill="#7CF5F5" font-size="12">    )_)  )_)  )_)</text>
+<text xml:space="preserve" x="34" y="134" fill="#7CF5F5" font-size="12">   )___))___))___)\</text>
+<text xml:space="preserve" x="34" y="149" fill="#7CF5F5" font-size="12">  )____)____)_____)\\</text>
+<text xml:space="preserve" x="34" y="164" fill="#7CF5F5" font-size="12">_____|____|____|____\\\__</text>
+<text xml:space="preserve" x="34" y="179" fill="#7CF5F5" font-size="12">\                   /</text>
+<text xml:space="preserve" x="34" y="194" fill="#7CF5F5" font-size="12"> ~~~^~~~~^~~~~^~~~~^~~</text>
 <text x="320" y="104" fill="#16C0C0" font-size="13" font-weight="700">dacongan@naval-arch</text>
 <text x="320" y="124" fill="#33507A" font-size="13">-------------------</text>
 <text x="320" y="144" fill="#16C0C0" font-size="13" font-weight="700">Role</text>
