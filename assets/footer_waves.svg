@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" preserveAspectRatio="none">
+<defs>
+<linearGradient id="g0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A2342" stop-opacity="0"/><stop offset="1" stop-color="#0A2342" stop-opacity="0.55"/></linearGradient>
+<linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0E5A6E" stop-opacity="0"/><stop offset="1" stop-color="#0E5A6E" stop-opacity="0.45"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16C0C0" stop-opacity="0"/><stop offset="1" stop-color="#16C0C0" stop-opacity="0.3"/></linearGradient>
+</defs>
+<path d="M-200,60 q50,-18 100,0 t200,0 t200,0 t200,0 t200,0 t200,0 t200,0 t200,0 t200,0 t200,0 t200,0 V150 H-200 Z" fill="url(#g0)"><animateTransform attributeName="transform" type="translate" values="0 0; -200 0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M-170,78 q42,-14 85,0 t170,0 t170,0 t170,0 t170,0 t170,0 t170,0 t170,0 t170,0 t170,0 t170,0 t170,0 V150 H-170 Z" fill="url(#g1)"><animateTransform attributeName="transform" type="translate" values="0 0; -170 0" dur="6.5s" repeatCount="indefinite"/></path>
+<path d="M-140,96 q35,-11 70,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 V150 H-140 Z" fill="url(#g2)"><animateTransform attributeName="transform" type="translate" values="0 0; -140 0" dur="4.5s" repeatCount="indefinite"/></path>
+</svg>
